@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "SABIA QUE TU ME AMAVA!!!";
   gif.src =
-    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV4d3h1NmFlcXM2eWQ1YWZvZ293bXpqamR4a3hldjcxcjQ5ZDdxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif";
+    "https://tenor.com/bLibr.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
